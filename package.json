@@ -1,6 +1,6 @@
 {
-	"homepage": "https://wilianmorimoto.github.io/react-todo-list",
-	"name": "todo-list",
+	"homepage": "https://wilianmorimoto.github.io/todo-list-react",
+	"name": "todo-list-react",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
